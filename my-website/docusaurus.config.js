@@ -82,19 +82,19 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'tutorialSidebar',
+          //   position: 'left',
+          //   label: 'Tutorial',
+          // },
           // { to: '/docs/intro', label: 'Tutorial', position: 'left' }, // Keep tutorial
           { to: '/docs/admin/introduction', label: 'Admin', position: 'left' }, // ✅ Admin link
           { to: '/docs/user/getting-started', label: 'User', position: 'left' }, // ✅ User link
           { to: '/docs/api/authentication', label: 'API', position: 'left' }, // ✅ API link
-          { to: '/docs/campaign/audio-file-manager', label: 'Campaign', position: 'left' }, // ✅ API link
+          // { to: '/docs/campaign/audio-file-manager', label: 'Campaign', position: 'left' }, // ✅ API link
           // { href: 'https://github.com/yourrepo', label: 'GitHub', position: 'right' },
-          { to: '/blog', label: 'Blog', position: 'left' },
+          // { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
