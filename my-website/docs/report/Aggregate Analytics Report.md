@@ -23,9 +23,9 @@ title: aggregate analytic report
    - The report includes aggregated analytics based on the selected period.  
 
 ## Expected Behavior  
-✅ If valid **Username** and **Month-Year** are provided → The report is displayed successfully.  
+ If valid **Username** and **Month-Year** are provided → The report is displayed successfully.  
 
     ![Success report screenshot](images/success.png)
 
-❌ If incorrect details are entered → No report is shown or an error message appears.  
+ If incorrect details are entered → No report is shown or an error message appears.  
 
